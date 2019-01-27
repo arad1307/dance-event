@@ -1,31 +1,38 @@
 .header {
 	background: hsl(206, 93%, 73%);
 	display: flex;
-    justify-content: space-around;
     align-items: center;
     height: 400px;
+    justify-content: space-around;
 }
 
 body {
 	background: hsl(216, 33%, 97%);
 	color:hsl(210, 24%, 16%);
-	margin: 0;
 	font-family: "Open Sans";
+	margin: 0;
 }
 
 .about {
-    margin-top: 30px;
     margin-bottom: 30px;
     margin-left: 20px;
+    margin-top: 30px;
 }
 
 .staff {
 	background: hsl(206, 93%, 73%);
-    padding-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
     padding-bottom: 30px;
     padding-left: 20px;
+    padding-top: 30px;
 }
 
 .person {
-
+    background: hsl(216, 33%, 97%);
+    border-radius: 6px;
+    height: 30vw;
+    width: 30vw;
 }
