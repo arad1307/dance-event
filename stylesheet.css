@@ -33,6 +33,10 @@ body {
 .person {
     background: hsl(216, 33%, 97%);
     border-radius: 6px;
-    height: 30vw;
+    display: flex;
+    margin: 10px;
+    align-items: center;
+    justify-content: space-around;
+    height: 30px;
     width: 30vw;
 }
