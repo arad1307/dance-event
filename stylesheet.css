@@ -13,11 +13,16 @@ body {
 	margin: 0;
 }
 
+.about-p2 {
+    /*margin-left: 20px;*/
+    list-style-type: disc;
+}
 .about {
     margin-bottom: 30px;
     margin-left: 20px;
     margin-top: 30px;
 }
+
 
 .staff {
 	background: hsl(206, 93%, 73%);
@@ -40,3 +45,4 @@ body {
     height: 30px;
     width: 30vw;
 }
+
