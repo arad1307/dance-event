@@ -11,21 +11,12 @@
     justify-content: space-around;
 }
 
-    /*background: hsl(206, 93%, 73%);
-    display: flex;
-    align-items: center;
-    height: 400px;
-    justify-content: space-around;*/
 body {
     background: hsl(216, 33%, 97%);
     color: hsl(210, 24%, 16%);
     font-family: "Open Sans";
     margin: 0;
 }
-    /*background: hsl(216, 33%, 97%);
-    color: hsl(210, 24%, 16%);
-    font-family: "Open Sans";
-    margin: 0;*/
 
 .about-dreams {
     list-style-type: disc;
