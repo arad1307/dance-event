@@ -1,6 +1,5 @@
-.headerImg {
-    height: 100%
-    width: auto;
+.header-img {
+    max-height: 100%;
 }
 
 .header {
